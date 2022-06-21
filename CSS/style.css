@@ -1,12 +1,12 @@
-body{
-    background-color: aquamarine;
-}
+
 h5{
     color: antiquewhite;
-}
-.carousel{
-    /* height: 700px; */
 }
 h6{
     font-size: 50px;
 }
+.carousel .carousel-indicators button {
+    width: 10px;
+   height: 10px;
+   border-radius: 100%;
+ }
